@@ -38,6 +38,10 @@ ul {
     padding-left: 20px;
 }
 
+li {
+    list-style-type: circle;
+}
+
 footer a {
     color: #007bff;
     text-decoration: none;
